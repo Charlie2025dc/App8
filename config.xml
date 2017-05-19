@@ -2,13 +2,13 @@
   
   <widget xmls ="http://www.w3.org/ns/widgets"
     xmlns:gap ="http://phonegap.com/ns/1.0"
-	id ="com.phonegap.example7"
+	id ="com.phonegap.example8"
 	version ="1.0.0">
 	
-   <name> App7 Deslizar </name>
+   <name> App8 Mostrar apps </name>
    
     <description>
-	 Aplicación que desliza izquierda y derecha
+	 Aplicación que Muestra las apps
 	</description>
 	
 	<author href="https://build.phonegap.com" email="caralbap2000@gmail.com">
